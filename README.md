@@ -25,3 +25,10 @@ __Melhoria 1__, _Melhoria 2_
     3. CSS diferente para grupos de clinte
 2. Integração com outros pagamentos 
 3. Sistema de bônus primeira compra 
+
+## Código da função soma
+
+```javascript
+function soma (a, b){
+    return a + b;
+} ```
