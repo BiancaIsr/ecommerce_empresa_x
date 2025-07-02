@@ -9,7 +9,7 @@ _Checkout, **Tela de produto**, catalogo, Home com banner_
 
 __Melhoria 1__, _Melhoria 2_
 
-###Linguagens do peojeto:
+### Linguagens do projeto:
 
 * HTML
 * CSS
