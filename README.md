@@ -11,8 +11,14 @@ __Melhoria 1__, _Melhoria 2_
 
 ###Linguagens do peojeto:
 
-*HTML
-*CSS
-*JavaScript
-*PHP
-*MySQL
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+### Funcionalidade a desenvolver:
+
+1. Area de membros
+2. Integração com outros pagamentos 
+3. Sistema de bônus primeira compra 
