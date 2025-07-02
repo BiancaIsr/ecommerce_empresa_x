@@ -26,6 +26,13 @@ __Melhoria 1__, _Melhoria 2_
 2. Integração com outros pagamentos 
 3. Sistema de bônus primeira compra 
 
+## Lista de tarefas a fazer 
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [x] CSS do rodapé
+
+
 ## Código da função soma
 
 ```javascript
